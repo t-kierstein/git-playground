@@ -9,3 +9,6 @@
 ### git add 'Dateiname' || (add . --> alle Dateien)
 
 ### git commit -m "message"
+
+### git log
+#### --pretty=oneline
